@@ -1,4 +1,4 @@
-### Hi 👋, We're ES Design
+<h1 align="center">Hi 👋, We're ES Design</h1>
 
 <!--
 **esdesignstudio/esdesignstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
