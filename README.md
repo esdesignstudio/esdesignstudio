@@ -18,6 +18,8 @@
 
 
 <h2 align="center">We Are Looking For</h2>
+<p align="center">No matter what nationality you are, as long as you can work in Taiwan and like interactive / front-end effects, come and apply!</p>
+<p align="center">不論你是哪個國籍，只要能在台灣工作，喜歡互動特效，都來應徵吧！</p>
 <div align="center">
 <a href="https://www.cakeresume.com/companies/es-design/jobs" target="_blank">
   <img src="https://img.shields.io/badge/Front--end-Developer-ffe800?style=for-the-badge" />
