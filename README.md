@@ -17,7 +17,7 @@
 
 <h2 align="center">We Are Looking For</h2>
 <div align="center">
-<img src="https://img.shields.io/badge/Front--end-Developer-ffe800-style=for-the-badge" />
+<img src="https://img.shields.io/badge/Front--end-Developer-ffe800?style=for-the-badge" />
 </div>
 <!--
 **esdesignstudio/esdesignstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
