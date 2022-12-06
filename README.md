@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, We're ES Design</h1>
 
+<img src="https://e-s.tw/wp-content/uploads/2022/11/socialuse.jpg" />
+
 <h2 align="center">Our Skills</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
