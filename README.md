@@ -18,7 +18,7 @@
 <h2 align="center">We Are Looking For</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Front--end-Developer-ffe800?style=for-the-badge?url=https://www.cakeresume.com/companies/es-design/jobs" />
-<img src="https://img.shields.io/badge/UI--Designer-ffe800?style=for-the-badge?url=https://www.cakeresume.com/companies/es-design/jobs" />
+<img src="https://img.shields.io/badge/UI/UX-Designer-ffe800?style=for-the-badge?url=https://www.cakeresume.com/companies/es-design/jobs" />
 </div>
 <!--
 **esdesignstudio/esdesignstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
